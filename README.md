@@ -34,6 +34,7 @@ A Machine Learning web application that predicts whether a tweet is **Positive �
 
 ## 📂 Project Structure
 
+```
 twitter-sentiment-analysis/
 │
 ├── app.py
@@ -47,6 +48,8 @@ twitter-sentiment-analysis/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
+
 
 ---
 
