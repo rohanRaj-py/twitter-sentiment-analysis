@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset files (IMPORTANT)
+*.csv
+*.zip
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Kaggle API (SECRET)
+kaggle.json
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+.vscode/
